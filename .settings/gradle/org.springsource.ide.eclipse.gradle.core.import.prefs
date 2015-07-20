@@ -6,4 +6,4 @@ beforeTasks=cleanEclipse;eclipse;
 enableAfterTasks=true
 enableBeforeTasks=true
 enableDependendencyManagement=true
-projects=discovery-server;edge-server;product;product-composite-service;product-service;recommendation-service;review-service;
+projects=discovery-server;edge-server;product-composite-service;product-service;recommendation-service;review-service;
