@@ -1,2 +1,2 @@
 
-include "discovery-server", "edge-server", "product-composite-service", "product-service", "recommendation-service", "review-service", "monitor-dashboard", "turbine"
+include "discovery-server", "edge-server", "product-composite-service", "product-service", "recommendation-service", "review-service", "monitor-dashboard", "turbine", "product-api-service", "auth-server"
