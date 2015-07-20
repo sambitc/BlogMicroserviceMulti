@@ -1,0 +1,5 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
+#Fri Jul 17 16:06:29 IST 2015
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;discovery-server;edge-server;product;product-composite-service;product-service;recommendation-service;review-service;
+org.springsource.ide.eclipse.gradle.linkedresources=
+org.springsource.ide.eclipse.gradle.rootprojectloc=
